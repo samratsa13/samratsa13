@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there, I'm Samrat Adhikari
 
-<!--
-**samratsa13/samratsa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **web development learner** working my way toward becoming a **Full Stack Developer**. I love building creative, responsive, and user-friendly websites.
 
-Here are some ideas to get you started:
+### 🛠️ Currently Learning:
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express.js, MongoDB
+- Version Control: Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 My Goals:
+- Build real-world full-stack projects
+- Contribute to open-source communities
+- Grow into a confident Full Stack Developer
+
+### 📫 Connect With Me:
+- Email: [samrat101sa@gmail.com](mailto:samrat101sa@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/samratadhikari/
+- 🌐 Portfolio: Coming Soon
+
+> "Code. Learn. Repeat. — That’s my dev mantra 💻"
+
+---
+
+⚡ _Feel free to follow my journey here on GitHub!_
