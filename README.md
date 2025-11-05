@@ -15,7 +15,7 @@ I'm a passionate **web development learner** working my way toward becoming a **
 📫 Connect With Me:
 - Email: [samrat101sa@gmail.com](mailto:samrat101sa@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/samratadhikari/
-- 🌐 Portfolio: Coming Soon
+- 🌐 Portfolio: https://samrat-adhikari.com.np/
 
 > "Code. Learn. Repeat. — That’s my dev mantra 💻"
 
